@@ -15,6 +15,7 @@ Project Showcase
 
 | Repo         | Description     | Language |
 |--------------|-----------|------------|
+| [dewpoint](https://github.com/wezm/dewpoint.7bit.org) | A website that provides a 7 day dewpoint forecast for a selected location | Rust        |
 | [yeslogic/allsorts](https://github.com/yeslogic/allsorts) | OpenType font parser, shaping engine, and subsetter      | Rust        |
 | [clueboard-rust-firmware](https://github.com/wezm/clueboard-rust-firmware)      | A firmware for the Clueboard 66% Low Profile keyboard  | Rust       |
 | [git-grab](https://github.com/wezm/git-grab) | Clone a git repository into a standard location organised by domain and path | Rust |

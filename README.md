@@ -3,7 +3,7 @@
   <h3>👨‍💻 Software Developer&#8195;🌏 Sunshine Coast, Australia</h3><br>
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wezm" alt="My most used programming languages">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wezm&layout=compact" alt="My most used programming languages">
 
 Hi I’m Wes 👋. I like warm weather and tinkering with computers; ranging from small microcontrollers, up to large servers and the operating systems that run upon them. I’m a [Rustacean](https://www.rust-lang.org/learn/get-started#ferris) 🦀 with a fondness for mechanical keyboards. I work at <a href="https://github.com/yeslogic">YesLogic</a> on the [Prince](https://www.princexml.com/) HTML to PDF converter. [Read more on my website →](https://www.wezm.net/v2/about/)
 

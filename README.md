@@ -15,6 +15,8 @@ Project Showcase
 
 | Repo         | Description     | Language |
 |--------------|-----------|------------|
+| [7clock](https://github.com/wezm/7clock) | A terminal clock that uses 7-segment display characters | Rust        |
+| [timestampr](https://github.com/wezm/timestampr) | Tool for writing timestamps to a file to make video editing easier | Rust        |
 | [RSS Please](https://github.com/wezm/rsspls) | Generate RSS feeds from web sites | Rust        |
 | [garage-door-monitor](https://github.com/wezm/rsspls) | Notifies me when the garage door is left open using a Raspberry Pi and 13 Mb Linux image | Rust        |
 | [dewpoint](https://github.com/wezm/dewpoint.7bit.org) | A website that provides a 7 day dewpoint forecast for a selected location | Rust        |
@@ -23,7 +25,7 @@ Project Showcase
 | [git-grab](https://github.com/wezm/git-grab) | Clone a git repository into a standard location organised by domain and path | Rust |
 | [bar](https://github.com/wezm/bar) | A status bar for the Awesome window manager | Rust |
 | [titlecase](https://github.com/wezm/titlecase) | A tool and Rust crate for cleverly transforming text into Title Case. | Rust |
-| [pkb](https://github.com/wezm/pkb) | Personal knowledge base. Live at [linkedlist.org](https://linkedlist.org/). | Ruby |
+| [pkb](https://github.com/wezm/pkb) | Personal knowledge base. Live at [linkedlist.org](https://linkedlist.org/). | ~~Ruby~~ Rust |
 | [Read Rust](https://github.com/wezm/read-rust) | A website that curates interesting posts related to Rust. | Crystal and Rust |
 | [rsdate](https://github.com/wezm/rsdate) | Connects to an ntp server, printing the returned time and/or sets the system clock. | Rust |
 | [zfs-autosnap](https://github.com/wezm/zfs-autosnap) (fork) | Automatic ZFS snapshot utility  | Rust |

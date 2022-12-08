@@ -23,7 +23,6 @@ Project Showcase
 | [yeslogic/allsorts](https://github.com/yeslogic/allsorts) | OpenType font parser, shaping engine, and subsetter      | Rust        |
 | [clueboard-rust-firmware](https://github.com/wezm/clueboard-rust-firmware)      | A firmware for the Clueboard 66% Low Profile keyboard  | Rust       |
 | [git-grab](https://github.com/wezm/git-grab) | Clone a git repository into a standard location organised by domain and path | Rust |
-| [bar](https://github.com/wezm/bar) | A status bar for the Awesome window manager | Rust |
 | [titlecase](https://github.com/wezm/titlecase) | A tool and Rust crate for cleverly transforming text into Title Case. | Rust |
 | [pkb](https://github.com/wezm/pkb) | Personal knowledge base. Live at [linkedlist.org](https://linkedlist.org/). | ~~Ruby~~ Rust |
 | [Read Rust](https://github.com/wezm/read-rust) | A website that curates interesting posts related to Rust. | Crystal and Rust |
@@ -37,6 +36,5 @@ Project Showcase
 | [profont](https://github.com/wezm/profont) | ProFont for [the embedded-graphics crate](https://github.com/jamwaffles/embedded-graphics) | Rust |
 | [pass2csv](https://github.com/wezm/pass2csv) | Tool to export data from [pass](https://www.passwordstore.org/) for import into another password manager. | Rust |
 | [gps-monitor](https://github.com/wezm/gps-monitor) | Small program that reads NMEA sentences from a serial port and prints out the parsed results. | Rust |
-| [leaf](https://github.com/wezm/leaf) | Lightweight, self-hosted task tracking | Rust |
 | [feedfinder](https://github.com/wezm/feedfinder) | Rust crate for auto-discovery of feeds in HTML content | Rust |
 | [linux-conf-au-2019-epaper-badge](https://github.com/wezm/linux-conf-au-2019-epaper-badge) | An interactive conference badge with an e-Paper display running on Raspberry Pi Zero W | Rust |

@@ -13,6 +13,8 @@ Hi I’m Wes 👋. I like warm weather and tinkering with computers; ranging fro
 Project Showcase
 ----------------
 
+**Note:** I also some projects on [forge.wezm.net](https://forge.wezm.net/) now.
+
 | Repo         | Description     | Language |
 |--------------|-----------|------------|
 | [7clock](https://github.com/wezm/7clock) | A terminal clock that uses 7-segment display characters | Rust        |

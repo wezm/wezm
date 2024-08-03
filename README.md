@@ -20,10 +20,11 @@ A selection of some of my projects.
 | Repo         | Description     | Language | Stars |
 |--------------|-----------------|----------|-------|
 | [yeslogic/allsorts](https://github.com/yeslogic/allsorts) | OpenType font parser, shaping engine, and subsetter      | Rust        | ★&nbsp;692|
-| [RSS Please](https://github.com/wezm/rsspls) | Generate RSS feeds from web sites | Rust        | ★&nbsp;255|
+| [RSS Please](https://github.com/wezm/rsspls) | Generate RSS feeds from web sites | Rust        | ★&nbsp;274|
+| [Feedlynx](https://github.com/wezm/rsspls) | Collect links to read or watch later in your RSS reader. | Rust        | ★&nbsp;36|
 | [Read Rust](https://github.com/wezm/read-rust) | A website that curates interesting posts related to Rust. | Crystal and Rust | ★&nbsp;197|
-| [git-grab](https://github.com/wezm/git-grab) | Clone a git repository into a standard location organised by domain and path | Rust | ★&nbsp;126|
-| [titlecase](https://github.com/wezm/titlecase) | A tool and Rust crate for cleverly transforming text into Title Case. | Rust | ★&nbsp;81|
+| [git-grab](https://github.com/wezm/git-grab) | Clone a git repository into a standard location organised by domain and path | Rust | ★&nbsp;136|
+| [titlecase](https://github.com/wezm/titlecase) | A tool and Rust crate for cleverly transforming text into Title Case. | Rust | ★&nbsp;88|
 | [linux-conf-au-2019-epaper-badge](https://github.com/wezm/linux-conf-au-2019-epaper-badge) | An interactive conference badge with an e-Paper display running on Raspberry Pi Zero W | Rust | ★&nbsp;63|
 | [pkb](https://github.com/wezm/pkb) | Personal knowledge base. Live at [linkedlist.org](https://linkedlist.org/). | ~~Ruby~~ Rust | ★&nbsp;50|
 | [profont](https://github.com/wezm/profont) | ProFont for [the embedded-graphics crate](https://github.com/jamwaffles/embedded-graphics) | Rust | ★&nbsp;49|

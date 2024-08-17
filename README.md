@@ -21,7 +21,7 @@ A selection of some of my projects.
 |--------------|-----------------|----------|-------|
 | [yeslogic/allsorts](https://github.com/yeslogic/allsorts) | OpenType font parser, shaping engine, and subsetter      | Rust        | ★&nbsp;692|
 | [RSS Please](https://github.com/wezm/rsspls) | Generate RSS feeds from web sites | Rust        | ★&nbsp;274|
-| [Feedlynx](https://github.com/wezm/rsspls) | Collect links to read or watch later in your RSS reader. | Rust        | ★&nbsp;36|
+| [Feedlynx](https://github.com/wezm/feedlynx) | Collect links to read or watch later in your RSS reader. | Rust        | ★&nbsp;36|
 | [Read Rust](https://github.com/wezm/read-rust) | A website that curates interesting posts related to Rust. | Crystal and Rust | ★&nbsp;197|
 | [git-grab](https://github.com/wezm/git-grab) | Clone a git repository into a standard location organised by domain and path | Rust | ★&nbsp;136|
 | [titlecase](https://github.com/wezm/titlecase) | A tool and Rust crate for cleverly transforming text into Title Case. | Rust | ★&nbsp;88|

@@ -19,25 +19,24 @@ A selection of some of my projects.
 
 | Repo         | Description     | Language | Stars |
 |--------------|-----------------|----------|-------|
-| [yeslogic/allsorts](https://github.com/yeslogic/allsorts) | OpenType font parser, shaping engine, and subsetter      | Rust        | ★&nbsp;692|
-| [RSS Please](https://github.com/wezm/rsspls) | Generate RSS feeds from web sites | Rust        | ★&nbsp;274|
-| [Feedlynx](https://github.com/wezm/feedlynx) | Collect links to read or watch later in your RSS reader. | Rust        | ★&nbsp;36|
-| [Read Rust](https://github.com/wezm/read-rust) | A website that curates interesting posts related to Rust. | Crystal and Rust | ★&nbsp;197|
-| [git-grab](https://github.com/wezm/git-grab) | Clone a git repository into a standard location organised by domain and path | Rust | ★&nbsp;136|
-| [titlecase](https://github.com/wezm/titlecase) | A tool and Rust crate for cleverly transforming text into Title Case. | Rust | ★&nbsp;88|
-| [linux-conf-au-2019-epaper-badge](https://github.com/wezm/linux-conf-au-2019-epaper-badge) | An interactive conference badge with an e-Paper display running on Raspberry Pi Zero W | Rust | ★&nbsp;63|
-| [pkb](https://github.com/wezm/pkb) | Personal knowledge base. Live at [linkedlist.org](https://linkedlist.org/). | ~~Ruby~~ Rust | ★&nbsp;50|
-| [profont](https://github.com/wezm/profont) | ProFont for [the embedded-graphics crate](https://github.com/jamwaffles/embedded-graphics) | Rust | ★&nbsp;49|
-| [dotfiles](https://github.com/wezm/dotfiles) | My CLI configuration files | N/A | ★&nbsp;24|
-| [garage-door-monitor](https://github.com/wezm/garage-door-monitor) | Notifies me when the garage door is left open using a Raspberry Pi and 13 Mb Linux image | Rust        | ★&nbsp;19|
-| [clueboard-rust-firmware](https://github.com/wezm/clueboard-rust-firmware)      | A firmware for the Clueboard 66% Low Profile keyboard  | Rust       | ★&nbsp;11|
-| [feedfinder](https://github.com/wezm/feedfinder) | Rust crate for auto-discovery of feeds in HTML content | Rust | ★&nbsp;10|
-| [7clock](https://github.com/wezm/7clock) | A terminal clock that uses 7-segment display characters | Rust        | ★&nbsp;7|
-| [wezm.net](https://github.com/wezm/wezm.net) | Source of [my website](https://www.wezm.net/) | HTML | ★&nbsp;6|
-| [timestampr](https://github.com/wezm/timestampr) | Tool for writing timestamps to a file to make video editing easier | Rust        | ★&nbsp;5|
-| [mistakes.computer](https://github.com/wezm/mistakes.computer) | [A fun website](https://mistakes.computer/) of things that were a mistake | TypeScript | ★&nbsp;5|
-| [github-system-emoji-extension](https://github.com/wezm/github-system-emoji-extension) | [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/github-system-emoji/) for Linux users to make GitHub use system emoji instead of ugly images of Noto Color Emoji | JavaScript | ★&nbsp;5|
-| [dewpoint](https://github.com/wezm/dewpoint.7bit.org) | A website that provides a 7 day dewpoint forecast for a selected location | Rust        | ★&nbsp;4|
-| [rsdate](https://github.com/wezm/rsdate) | Connects to an ntp server, printing the returned time and/or sets the system clock. | Rust | ★&nbsp;4|
-| [zfs-autosnap](https://github.com/wezm/zfs-autosnap) (fork) | Automatic ZFS snapshot utility  | Rust | ★&nbsp;3|
-| [Quotes](https://github.com/wezm/Quotes) | A retro themed web-app for quoting friends | Rust | ★&nbsp;0|
+| [Allsorts](https://github.com/yeslogic/allsorts) | OpenType font parser, shaping engine, and subsetter      | Rust        | ![yeslogic/allsorts stars](https://img.shields.io/github/stars/yeslogic/allsorts) |
+| [RSS Please](https://github.com/wezm/rsspls) | Generate RSS feeds from web sites | Rust        | ![wezm/rsspls stars](https://img.shields.io/github/stars/wezm/rsspls) |
+| [Feedlynx](https://github.com/wezm/feedlynx) | Collect links to read or watch later in your RSS reader. | Rust        | ![wezm/feedlynx stars](https://img.shields.io/github/stars/wezm/feedlynx) |
+| [Read Rust](https://github.com/wezm/read-rust) | A (dormant) website that curates interesting posts related to Rust. | Crystal and Rust | ![wezm/read-rust stars](https://img.shields.io/github/stars/wezm/read-rust) |
+| [git-grab](https://github.com/wezm/git-grab) | Clone a git repository into a standard location organised by domain and path | Rust | ![wezm/git-grab stars](https://img.shields.io/github/stars/wezm/git-grab) |
+| [titlecase](https://github.com/wezm/titlecase) | A tool and Rust crate for cleverly transforming text into Title Case. | Rust | ![wezm/titlecase stars](https://img.shields.io/github/stars/wezm/titlecase) |
+| [linux-conf-au-2019-epaper-badge](https://github.com/wezm/linux-conf-au-2019-epaper-badge) | An interactive conference badge with an e-Paper display running on Raspberry Pi Zero W | Rust | ![wezm/linux-conf-au-2019-epaper-badge stars](https://img.shields.io/github/stars/wezm/linux-conf-au-2019-epaper-badge) |
+| [pkb](https://github.com/wezm/pkb) | Personal knowledge base. Live at [linkedlist.org](https://linkedlist.org/). | ~~Ruby~~ Rust | ![wezm/pkb stars](https://img.shields.io/github/stars/wezm/pkb) |
+| [profont](https://github.com/wezm/profont) | ProFont for [the embedded-graphics crate](https://github.com/jamwaffles/embedded-graphics) | Rust | ![wezm/profont stars](https://img.shields.io/github/stars/wezm/profont) |
+| [dotfiles](https://github.com/wezm/dotfiles) | My CLI configuration files | N/A | ![wezm/dotfiles stars](https://img.shields.io/github/stars/wezm/dotfiles) |
+| [garage-door-monitor](https://github.com/wezm/garage-door-monitor) | Notifies me when the garage door is left open using a Raspberry Pi and 13 Mb Linux image | Rust        | ![wezm/garage-door-monitor stars](https://img.shields.io/github/stars/wezm/garage-door-monitor) |
+| [clueboard-rust-firmware](https://github.com/wezm/clueboard-rust-firmware)      | A firmware for the Clueboard 66% Low Profile keyboard  | Rust       | ![wezm/clueboard-rust-firmware stars](https://img.shields.io/github/stars/wezm/clueboard-rust-firmware) |
+| [feedfinder](https://github.com/wezm/feedfinder) | Rust crate for auto-discovery of feeds in HTML content | Rust | ![wezm/feedfinder stars](https://img.shields.io/github/stars/wezm/feedfinder) |
+| [7clock](https://github.com/wezm/7clock) | A terminal clock that uses 7-segment display characters | Rust        | ![wezm/7clock stars](https://img.shields.io/github/stars/wezm/7clock) |
+| [wezm.net](https://github.com/wezm/wezm.net) | Source of [my website](https://www.wezm.net/) | HTML | ![wezm/wezm.net stars](https://img.shields.io/github/stars/wezm/wezm.net) |
+| [mistakes.computer](https://github.com/wezm/mistakes.computer) | [A fun website](https://mistakes.computer/) of things that were a mistake | TypeScript | ![wezm/mistakes.computer stars](https://img.shields.io/github/stars/wezm/mistakes.computer) |
+| [github-system-emoji-extension](https://github.com/wezm/github-system-emoji-extension) | [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/github-system-emoji/) for Linux users to make GitHub use system emoji instead of ugly images of Noto Color Emoji | JavaScript | ![wezm/github-system-emoji-extension stars](https://img.shields.io/github/stars/wezm/github-system-emoji-extension) |
+| [dewpoint](https://github.com/wezm/dewpoint.7bit.org) | A website that provides a 7 day dewpoint forecast for a selected location | Rust        | ![wezm/dewpoint.7bit.org stars](https://img.shields.io/github/stars/wezm/dewpoint.7bit.org)
+| [rsdate](https://github.com/wezm/rsdate) | Connects to an ntp server, printing the returned time and/or sets the system clock. | Rust | ![wezm/rsdate stars](https://img.shields.io/github/stars/wezm/rsdate) |
+| [zfs-autosnap](https://github.com/wezm/zfs-autosnap) (fork) | Automatic ZFS snapshot utility  | Rust | ![wezm/zfs-autosnap stars](https://img.shields.io/github/stars/wezm/zfs-autosnap) |
+| [Quotes](https://github.com/wezm/Quotes) | A retro themed web-app for quoting friends | Rust | ![wezm/Quotes stars](https://img.shields.io/github/stars/wezm/Quotes) |
